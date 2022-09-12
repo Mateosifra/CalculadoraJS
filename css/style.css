@@ -80,3 +80,11 @@ footer {
     width: 100%;
     
 }
+
+#valor-actual {
+    font-size: 1.5em;
+}
+
+#valor-anterior {
+    font-size: 2em;
+}
